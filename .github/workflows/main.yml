@@ -8,5 +8,5 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: run python
-      run:
+      run:  
         python3 a0323.py
